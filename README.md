@@ -1,2 +1,2 @@
 # demo
-Author - Arjun Bhatiya
+Author - Arjun Bhatiya(Student)
